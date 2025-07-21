@@ -1,25 +1,13 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="" width="100%" alt="banner"/>
-</p>
-<!--Banner-->
-![avishek Banner Image](./BANNER.gif)
-
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
-
-<!-- Typing Title -->
-<p align="center">
-<!--   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=12F7D6&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+ShrutiKarmakar+%F0%9F%91%8B;Frontend+Developer;UI%2FUX+Designer;Web+Explorer+from+Bengal" alt="Typing SVG" /> -->
+  <img src="./shruti-banner.png" width="100%" alt="Hi I'm Shruti banner" />
 </p>
 
 ---
 
 ### 🙏 নমস্কার! (Nomoskar – Hello from Bengal 🇮🇳)
 
-I'm **Shruti Karmakar**, a Computer Science student (BCA) (2025), passionate about building fast, accessible, and creative web experiences using **ReactJS**, **Tailwind CSS**, and modern **JavaScript**, **HTML**, and **CSS** tools.  
+I'm **Shruti Karmakar**, a Computer Science student (BCA 2025), passionate about building fast, accessible, and creative web experiences using **ReactJS**, **Tailwind CSS**, and modern **JavaScript**, **HTML**, and **CSS** tools.  
 I love combining performance with a delightful user experience.
 
 ---
@@ -27,7 +15,7 @@ I love combining performance with a delightful user experience.
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,materialui,nodejs,redux,github,vercel,netlify,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,redux,nodejs,materialui,github,vercel,netlify,figma" />
 </p>
 
 ---
@@ -35,41 +23,22 @@ I love combining performance with a delightful user experience.
 ### 🚀 Featured Projects
 
 #### 1. 📁 Personal Portfolio Website
-- ⚡ Sleek & fast site with **React + Vite + TailwindCSS**
-- ✅ Responsive design, animations, resume download, live demo  
+- ⚡ Built using **React + Vite + TailwindCSS**
+- 🎯 Clean UI, animations, resume download, live demo  
 [🔗 Live Demo](https://your-portfolio-link.com)
 
 #### 2. 🍴 Restaurant / Food Delivery App
-- Inspired by Zomato/Swiggy  
-- 🛒 Add to Cart | 🍽 Dish Detail | 💡 Mock Data  
-- Built with **React, Redux, Vite, MUI**  
-✅ No backend – pure frontend development.
+- 💡 Inspired by Zomato/Swiggy  
+- 🛒 Add to Cart | 🍽 Dish Detail | 💻 Pure Frontend  
+Built with **React, Redux, Vite, MUI**
 
 #### 3. 🎓 Task Management System
-- Role-based academic platform:
-  - 📌 Employees submit progress
-  - ✍️ Admin review & comment
-  - ⚙️ Admins manage reports
-- Hosted on **ReactJS + PostgreSQL + SpringBoot**
-
-> 🛠 Tools: React, Oracle DB, HTML/CSS
+- Role-based platform for academic progress tracking
+- ⚙️ Admin tools, 📄 Report management  
+Tools: **ReactJS, SpringBoot, PostgreSQL**
 
 ---
-<!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
-<br />
 
-<h3 align="left">Current Learning</h3>
-<ul align="left">
-  <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring advanced React.js patterns and state management techniques.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
-</ul>
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -82,7 +51,15 @@ I love combining performance with a delightful user experience.
 ### 🏆 GitHub Trophy Cabinet
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=tokyonight&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shrutikarmakar1804&theme=tokyonight&no-bg=true&no-frame=true" />
+</p>
+
+---
+
+### 📈 Visitor Badge
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shrutikarmakar1804&label=Visitors&color=ff69b4&style=for-the-badge" alt="Shrutikarmakar1804 visitor badge"/>
 </p>
 
 ---
@@ -91,10 +68,9 @@ I love combining performance with a delightful user experience.
 
 - 🌐 [Portfolio](https://yourportfolio.com)
 - 📄 [Resume](https://github.com/Shrutikarmakar1804/Shrutikarmakar1804/blob/main/Shruti_cv_doc.pdf)
-- 🔗 [LinkedIn](linkedin.com/in/shruti-karmakar-750605295)
-- 📧 Email: [shrutikarmakar317@gmail.com](shrutikarmakar317@gmail.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/shruti-karmakar-750605295)
+- 📧 Email: [shrutikarmakar317@gmail.com](mailto:shrutikarmakar317@gmail.com)
 
 ---
 
-> _"Design with empathy, develop with passion."_ — **Shruti Karmakar** 
-make it different and add designs and add picture 
+> _"Design with empathy, develop with passion."_ — **Shruti Karmakar**
