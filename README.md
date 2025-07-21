@@ -1,19 +1,19 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://your-banner-image-url" width="100%" alt="banner"/>
+  <img src="" width="100%" alt="banner"/>
 </p>
 
 <!-- Typing Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=12F7D6&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Jit+Mondal+%F0%9F%91%8B;Frontend+Developer;UI%2FUX+Designer;Web+Explorer+from+Bengal" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=12F7D6&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+ShrutiKarmakar+%F0%9F%91%8B;Frontend+Developer;UI%2FUX+Designer;Web+Explorer+from+Bengal" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🙏 নমস্কার! (Nomoskar – Hello from Bengal 🇮🇳)
 
-I'm **Jit Mondal**, a Computer Science (2025) student passionate about building fast, accessible, and creative web experiences using **React**, **Tailwind CSS**, and modern **JavaScript** tools.  
-I love combining performance with delightful user experience.
+I'm **Shruti Karmakar**, a Computer Science student (BCA) (2025), passionate about building fast, accessible, and creative web experiences using **ReactJS**, **Tailwind CSS**, and modern **JavaScript**, **HTML**, and **CSS** tools.  
+I love combining performance with a delightful user experience.
 
 ---
 
@@ -36,16 +36,16 @@ I love combining performance with delightful user experience.
 - Inspired by Zomato/Swiggy  
 - 🛒 Add to Cart | 🍽 Dish Detail | 💡 Mock Data  
 - Built with **React, Redux, Vite, MUI**  
-✅ No backend – pure frontend
+✅ No backend – pure frontend development.
 
-#### 3. 🎓 Student Management System
+#### 3. 🎓 Task Management System
 - Role-based academic platform:
-  - 📌 Students submit progress
-  - ✍️ Teachers review & comment
+  - 📌 Employees submit progress
+  - ✍️ Admin review & comment
   - ⚙️ Admins manage reports
-- Hosted on **Linux CLI + Oracle DB**
+- Hosted on **ReactJS + PostgreSQL + SpringBoot**
 
-> 🛠 Tools: React, Oracle DB, HTML/CSS, Linux Shell
+> 🛠 Tools: React, Oracle DB, HTML/CSS
 
 ---
 
@@ -70,9 +70,9 @@ I love combining performance with delightful user experience.
 
 - 🌐 [Portfolio](https://yourportfolio.com)
 - 📄 [Resume](https://yourresume.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/yourname)
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 🔗 [LinkedIn](linkedin.com/in/shruti-karmakar-750605295)
+- 📧 Email: [shrutikarmakar317@gmail.com](shrutikarmakar317@gmail.com)
 
 ---
 
-> _"Design with empathy, develop with passion."_ — **Jit Mondal**
+> _"Design with empathy, develop with passion."_ — **Shruti Karmakar**
