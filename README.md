@@ -1,55 +1,56 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="" width="100%" alt="banner"/>
+  <img src="https://i.imgur.com/DQxkT2I.png" width="100%" alt="Banner Image" />
+</p>
+
+<!-- Profile Picture -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/162157729?v=4" width="150" height="150" style="border-radius: 50%;" alt="Profile Photo"/>
 </p>
 
 <!-- Typing Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=12F7D6&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+ShrutiKarmakar+%F0%9F%91%8B;Frontend+Developer;UI%2FUX+Designer;Web+Explorer+from+Bengal" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=2500&pause=1000&color=0DF5E3&center=true&vCenter=true&width=500&lines=Hi+I'm+Shruti+Karmakar+👋;Frontend+Developer+🖥️;UI%2FUX+Designer+🎨;Web+Explorer+from+Bengal+🌐" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🙏 নমস্কার! (Nomoskar – Hello from Bengal 🇮🇳)
 
-I'm **Shruti Karmakar**, a Computer Science student (BCA) (2025), passionate about building fast, accessible, and creative web experiences using **ReactJS**, **Tailwind CSS**, and modern **JavaScript**, **HTML**, and **CSS** tools.  
-I love combining performance with a delightful user experience.
+I'm **Shruti Karmakar**, a passionate Computer Science (BCA, 2025) student who loves crafting beautiful, fast, and responsive web experiences using:
+
+- 🔹 **React.js**, **Tailwind CSS**, **JavaScript (ES6+)**
+- 🧠 Focused on clean UI, accessible UX, and fast performance
+- 💡 Believer in continuous learning & collaborative coding
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 My Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,materialui,nodejs,redux,github,vercel,netlify,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,materialui,redux,nodejs,figma,vercel,netlify,github" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Highlighted Projects
 
-#### 1. 📁 Personal Portfolio Website
-- ⚡ Sleek & fast site with **React + Vite + TailwindCSS**
-- ✅ Responsive design, animations, resume download, live demo  
-[🔗 Live Demo](https://your-portfolio-link.com)
+#### 🔸 [Portfolio Website](https://your-portfolio-link.com)
+- Sleek, responsive site built with **React + Vite + TailwindCSS**
+- Downloadable resume, smooth animations, minimal design
 
-#### 2. 🍴 Restaurant / Food Delivery App
-- Inspired by Zomato/Swiggy  
-- 🛒 Add to Cart | 🍽 Dish Detail | 💡 Mock Data  
-- Built with **React, Redux, Vite, MUI**  
-✅ No backend – pure frontend development.
+#### 🔸 Food Delivery App
+- Inspired by **Zomato/Swiggy**
+- Features: dish details, add to cart, checkout UI
+- Stack: **React, Redux, Vite, MUI**
 
-#### 3. 🎓 Task Management System
-- Role-based academic platform:
-  - 📌 Employees submit progress
-  - ✍️ Admin review & comment
-  - ⚙️ Admins manage reports
-- Hosted on **ReactJS + PostgreSQL + SpringBoot**
-
-> 🛠 Tools: React, Oracle DB, HTML/CSS
+#### 🔸 Academic Task Manager
+- Role-based dashboard for students & admins
+- Built with **React**, **PostgreSQL**, **Spring Boot**
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shrutikarmakar1804&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -58,21 +59,32 @@ I love combining performance with a delightful user experience.
 
 ---
 
-### 🏆 GitHub Trophy Cabinet
+### 🏅 Trophy Shelf
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=tokyonight&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shrutikarmakar1804&theme=tokyonight&no-bg=true&no-frame=true" />
 </p>
 
 ---
 
-### 📫 Let's Connect
+### 📫 Let’s Connect
 
-- 🌐 [Portfolio](https://yourportfolio.com)
-- 📄 [Resume](https://yourresume.com)
-- 🔗 [LinkedIn](linkedin.com/in/shruti-karmakar-750605295)
-- 📧 Email: [shrutikarmakar317@gmail.com](shrutikarmakar317@gmail.com)
+| Platform     | Link |
+|--------------|------|
+| 🌐 Portfolio | [yourportfolio.com](https://yourportfolio.com) |
+| 📄 Resume | [Click to View](https://github.com/Shrutikarmakar1804/Shrutikarmakar1804/blob/main/Shruti_cv_doc.pdf) |
+| 🔗 LinkedIn | [linkedin.com/in/shruti-karmakar-750605295](https://www.linkedin.com/in/shruti-karmakar-750605295/) |
+| 📧 Email | [shrutikarmakar317@gmail.com](mailto:shrutikarmakar317@gmail.com) |
 
 ---
 
-> _"Design with empathy, develop with passion."_ — **Shruti Karmakar**
+### ✨ Quote I Live By
+
+> _"Design with empathy, develop with passion."_ — **Shruti Karmakar** ✨
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0df5e3&height=120&section=footer"/>
+</p>
