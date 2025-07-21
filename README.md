@@ -3,7 +3,7 @@
   <img src="https://github.com/Shrutikarmakar1804/Shrutikarmakar1804/blob/main/shruti_banner.png" width="100%" alt="Hi I'm Shruti Karmakar" />
 </p>
 
-<h1 align="center">🌟 Hi there, I'm <span style="color:#00FFFF;">Jit Mondal</span> 👋</h1>
+<h1 align="center">🌟 Hi there, I'm <span style="color:#00FFFF;">Shruti Karmakar</span> 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%2F+Vite+%2F+Tailwind+CSS+Lover;UI%2FUX+Enthusiast;Scalable+and+Clean+Code+Believer;Open+to+Collaborations!" alt="Typing SVG" />
