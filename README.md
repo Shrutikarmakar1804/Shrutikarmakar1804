@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="./shruti-banner.png" width="100%" alt="Hi I'm Shruti banner" />
+  <img src="https://github.com/Shrutikarmakar1804/Shrutikarmakar1804/blob/main/shruti_banner.png" width="100%" alt="Hi I'm Shruti Karmakar" />
 </p>
 
 ---
