@@ -2,6 +2,13 @@
 <p align="center">
   <img src="" width="100%" alt="banner"/>
 </p>
+<!--Banner-->
+![avishek Banner Image](./BANNER.gif)
+
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
 <!-- Typing Title -->
 <p align="center">
