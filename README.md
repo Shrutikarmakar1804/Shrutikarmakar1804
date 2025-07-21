@@ -1,90 +1,71 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://i.imgur.com/DQxkT2I.png" width="100%" alt="Banner Image" />
-</p>
+# 👋 Hi, I'm Shruti Karmakar
 
-<!-- Profile Picture -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/162157729?v=4" width="150" height="150" style="border-radius: 50%;" alt="Profile Photo"/>
-</p>
-
-<!-- Typing Title -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=2500&pause=1000&color=0DF5E3&center=true&vCenter=true&width=500&lines=Hi+I'm+Shruti+Karmakar+👋;Frontend+Developer+🖥️;UI%2FUX+Designer+🎨;Web+Explorer+from+Bengal+🌐" alt="Typing SVG" />
-</p>
+**Frontend Developer | UI/UX Enthusiast | Tech Explorer**
 
 ---
 
-### 🙏 নমস্কার! (Nomoskar – Hello from Bengal 🇮🇳)
+### 🙏 নমস্কার (Nomoskar – Hello from Bengal 🇮🇳)
 
-I'm **Shruti Karmakar**, a passionate Computer Science (BCA, 2025) student who loves crafting beautiful, fast, and responsive web experiences using:
+I'm a Computer Science (BCA, 2025) student who builds accessible, performant, and elegant web applications.
 
-- 🔹 **React.js**, **Tailwind CSS**, **JavaScript (ES6+)**
-- 🧠 Focused on clean UI, accessible UX, and fast performance
-- 💡 Believer in continuous learning & collaborative coding
+💻 I love working with:
 
----
-
-### 🛠 My Tech Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,materialui,redux,nodejs,figma,vercel,netlify,github" />
-</p>
+- **React.js**, **JavaScript (ES6+)**, **TypeScript**
+- **Tailwind CSS**, **Material UI**, **Redux**
+- **Vite**, **Figma**, **Node.js**, **Git/GitHub**
 
 ---
 
-### 🚀 Highlighted Projects
+### 🛠 Tech Stack
 
-#### 🔸 [Portfolio Website](https://your-portfolio-link.com)
-- Sleek, responsive site built with **React + Vite + TailwindCSS**
-- Downloadable resume, smooth animations, minimal design
+**Languages:**  
+`HTML` `CSS` `JavaScript` `TypeScript`
 
-#### 🔸 Food Delivery App
-- Inspired by **Zomato/Swiggy**
-- Features: dish details, add to cart, checkout UI
-- Stack: **React, Redux, Vite, MUI**
+**Frontend:**  
+`React` `Vite` `Tailwind CSS` `Material UI` `Redux`
 
-#### 🔸 Academic Task Manager
-- Role-based dashboard for students & admins
-- Built with **React**, **PostgreSQL**, **Spring Boot**
+**Design & Tools:**  
+`Figma` `GitHub` `Vercel` `Netlify`
 
 ---
 
-### 📈 GitHub Insights
+### 🚀 Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shrutikarmakar1804&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrutikarmakar1804&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+**1. Portfolio Website**  
+_React + Tailwind CSS + Vite_  
+A sleek and responsive personal site with animations and downloadable resume.  
+🔗 [Live Demo](https://your-portfolio-link.com)
 
----
+**2. Food Delivery App**  
+_UI inspired by Zomato/Swiggy_  
+React-based UI for browsing dishes, adding to cart, and checking out.
 
-### 🏅 Trophy Shelf
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shrutikarmakar1804&theme=tokyonight&no-bg=true&no-frame=true" />
-</p>
-
----
-
-### 📫 Let’s Connect
-
-| Platform     | Link |
-|--------------|------|
-| 🌐 Portfolio | [yourportfolio.com](https://yourportfolio.com) |
-| 📄 Resume | [Click to View](https://github.com/Shrutikarmakar1804/Shrutikarmakar1804/blob/main/Shruti_cv_doc.pdf) |
-| 🔗 LinkedIn | [linkedin.com/in/shruti-karmakar-750605295](https://www.linkedin.com/in/shruti-karmakar-750605295/) |
-| 📧 Email | [shrutikarmakar317@gmail.com](mailto:shrutikarmakar317@gmail.com) |
+**3. Student Management System**  
+Role-based submission & review system built on Linux + Oracle + React.
 
 ---
 
-### ✨ Quote I Live By
+### 📊 GitHub Highlights
 
-> _"Design with empathy, develop with passion."_ — **Shruti Karmakar** ✨
+- 🔸 Regular open-source contributions  
+- 🔸 Focus on clean, modular code  
+- 🔸 Passionate about UI/UX and accessibility  
 
 ---
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0df5e3&height=120&section=footer"/>
-</p>
+### 📫 Let's Connect
+
+- **Email**: [shrutikarmakar317@gmail.com](mailto:shrutikarmakar317@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/shruti-karmakar-750605295](https://linkedin.com/in/shruti-karmakar-750605295)  
+- **Resume**: [View Resume](https://github.com/Shrutikarmakar1804/Shrutikarmakar1804/blob/main/Shruti_cv_doc.pdf)  
+- **Portfolio**: [your-portfolio-link.com](https://your-portfolio-link.com)
+
+---
+
+### ✨ About Me
+
+> “Simplicity is the soul of efficiency.”  
+> — Shruti Karmakar 🌱
+
+Thanks for visiting my profile!
+
