@@ -72,8 +72,8 @@ Tools: **ReactJS, SpringBoot, PostgreSQL**
 
 ### 📫 Let's Connect
 
-- 🌐 [Portfolio](https://yourportfolio.com)
-- 📄 [Resume](https://github.com/Shrutikarmakar1804/Shrutikarmakar1804/blob/main/Shruti_cv_doc.pdf)
+- 🌐 [Portfolio](https://my-portfolio-46zo.vercel.app/)
+- 📄 [Resume](https://github.com/Shrutikarmakar1804/Shrutikarmakar1804/blob/main/Shruti_cv.pdf)
 - 🔗 [LinkedIn](https://linkedin.com/in/shruti-karmakar-750605295)
 - 📧 Email: [shrutikarmakar317@gmail.com](mailto:shrutikarmakar317@gmail.com)
 
